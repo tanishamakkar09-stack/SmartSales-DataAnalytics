@@ -1,2 +1,3 @@
 # SmartSales-DataAnalytics
 A 24-hour hackathon project using Generative AI to analyze small e-commerce data.
+https://miro.com/welcomeonboard/Ulpyby9CNGdhb0FudmtqTGh0SHdNRjZ1L1VKRnVJb3FkcHhHdmJHUnFmcGVURVNNbk5DK1FnYiswbG1UTWQ2Q211ZFNUdHFOdjg3U3dCMFJUdzRpL3hrR2pqS2QxR3VJaTY2c3Y1V1hjTlArMjhqMCtjT1ZqNzNtbnlKQjh3Zkl0R2lncW1vRmFBVnlLcVJzTmdFdlNRPT0hdjE=?share_link_id=555485951015
